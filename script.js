@@ -119,6 +119,50 @@ $(imageBox[6]).mouseover(function() {
     $(projName[6]).css('color', 'white');
   });  
 
+$(imageBox[7]).mouseover(function() {
+    $(projName[7]).css('color', '#0064EB');
+  })
+  .mouseout(function() {
+    $(projName[7]).css('color', 'white');
+  });  
+
+$(imageBox[8]).mouseover(function() {
+    $(projName[8]).css('color', '#0064EB');
+  })
+  .mouseout(function() {
+    $(projName[8]).css('color', 'white');
+  });  
+  
+$(imageBox[9]).mouseover(function() {
+    $(projName[9]).css('color', '#0064EB');
+  })
+  .mouseout(function() {
+    $(projName[9]).css('color', 'white');
+  });  
+
+$(imageBox[10]).mouseover(function() {
+    $(projName[10]).css('color', '#0064EB');
+  })
+  .mouseout(function() {
+    $(projName[10]).css('color', 'white');
+  });  
+
+$(imageBox[11]).mouseover(function() {
+    $(projName[11]).css('color', '#0064EB');
+  })
+  .mouseout(function() {
+    $(projName[11]).css('color', 'white');
+  });  
+
+$(imageBox[12]).mouseover(function() {
+    $(projName[12]).css('color', '#0064EB');
+  })
+  .mouseout(function() {
+    $(projName[12]).css('color', 'white');
+  });  
+
+
+
   // var proj = a;
   // for (var i = 0; i < imageBox.length; i++) {
   //   switch(imageBox[i]) {
